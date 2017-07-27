@@ -1,0 +1,13 @@
+ 
+end.
+cd ..
+ls
+cd ..
+ls
+g++ -o try try.cpp
+gedit try.cpp
+g++ -o try try.cpp
+gedit try.cpp
+g++ -o try try.cpp
+quit
+end.
